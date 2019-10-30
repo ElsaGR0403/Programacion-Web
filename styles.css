@@ -1,0 +1,10 @@
+body{color:rgba(14, 1, 109, 0.664);
+text-align: center;
+background: rgb(238,174,202);background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+h1{
+	font-size: 60px;
+}
+h2{
+	font-size: 40px;
+}
